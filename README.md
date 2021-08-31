@@ -1,4 +1,4 @@
 # BOOTSTRAP
 
-Site em bootstrap totalmente responsável e desenvolvido por mim.
+Site em bootstrap totalmente responsivo e desenvolvido por mim. :)
 
